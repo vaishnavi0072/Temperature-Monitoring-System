@@ -28,4 +28,4 @@ Battery and electronic device safety systems
 Environmental monitoring
 Smart home automation and safety
 
-<img width="977" height="645" alt="Screenshot 2026-03-27 162913" src="https://github.com/user-attachments/assets/1f6a6a31-af84-41dd-92a9-725b5ae4a84b" />
+<img width="400" height="400" alt="Screenshot 2026-03-27 162913" src="https://github.com/user-attachments/assets/1f6a6a31-af84-41dd-92a9-725b5ae4a84b" />
