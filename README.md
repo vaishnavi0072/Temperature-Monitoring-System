@@ -4,13 +4,13 @@ The Temperature Monitoring System continuously monitors the ambient temperature 
 ## Simulation 
 https://wokwi.com/projects/459642293171615745
 ## Components Required
-Arduino Leonardo
-DHT22 Temperature & Humidity Sensor
-LED
-Buzzer
-Resistor)
-Connecting wires
-Breadboard 
+Arduino Leonardo,
+DHT22 Temperature & Humidity Sensor,
+LED,
+Buzzer,
+Resistor,
+Connecting wires,
+Breadboard.
 ## Working Principle
 The DHT22 sensor measures the ambient temperature and sends the data to the Arduino microcontroller. The Arduino processes the data and compares it with a predefined threshold.
 If the temperature exceeds the threshold:
